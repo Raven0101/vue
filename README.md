@@ -1,4 +1,4 @@
-# vue-todolist
+# vue-todolist/ajax
 
 ## Project setup
 ```
